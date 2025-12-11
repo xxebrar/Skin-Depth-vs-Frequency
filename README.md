@@ -25,7 +25,7 @@ The resulting skin depth curves are plotted using a **semilogarithmic frequency 
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install necessary packages:
 
